@@ -11,9 +11,9 @@ Data sources include WHO, national health reports, Open Data Africa
 # 🛠️  Methodology
 The project follows these steps:
 
-Data Collection & Preprocessing
-Cleaning missing values
-Feature selection and engineering
+*1* Data Collection & Preprocessing
+*2* Cleaning missing values
+*3* Feature selection and engineering
 Exploratory Data Analysis (EDA)
 Visualizing malaria trends
 Understanding correlations between variables
